@@ -1,14 +1,11 @@
 package com.amazon.screens;
 
 import java.util.List;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
-
 import com.amazon.base.MobileBase;
 import com.amazon.utilities.AppiumWrapper;
-
 import io.appium.java_client.MobileElement;
 
 public class SearchScreen extends MobileBase {

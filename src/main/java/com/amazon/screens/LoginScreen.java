@@ -1,10 +1,8 @@
 package com.amazon.screens;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
-
 import com.amazon.base.MobileBase;
 import com.amazon.utilities.AppiumWrapper;
-
 import io.appium.java_client.MobileElement;
 
 public class LoginScreen extends MobileBase {

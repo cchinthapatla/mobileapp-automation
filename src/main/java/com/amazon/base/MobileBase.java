@@ -1,9 +1,7 @@
 package com.amazon.base;
 
 import org.openqa.selenium.support.PageFactory;
-
 import com.amazon.drivermanager.DriverManager;
-
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.pagefactory.AppiumFieldDecorator;
